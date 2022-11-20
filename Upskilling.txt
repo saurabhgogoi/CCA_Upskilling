@@ -1,0 +1,6 @@
+UPSKILLING
+
+-> Completed CAF test
+-> Completed az900 certification : https://github.com/saurabhgogoi/az900-certification
+-> Completed agile certification : https://github.com/saurabhgogoi/AgileSoftwareDevelopment-certification
+-> Presentation on debugging in C# : https://github.com/saurabhgogoi/Debugging
