@@ -7,3 +7,5 @@ Assignment4 - https://github.com/saurabhgogoi/Exception
 Assignment5 - https://github.com/saurabhgogoi/CollectionFramework
 Assignment6 - https://github.com/saurabhgogoi/Delegates
 Assignment7 - https://github.com/saurabhgogoi/FileIO
+
+LINQ assignment - https://github.com/saurabhgogoi/LINQ-assignments
